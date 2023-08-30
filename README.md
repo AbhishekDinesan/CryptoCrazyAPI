@@ -21,7 +21,7 @@ Utilizes a webscraper with Python and the BeautifulSoup Library.
 
 for 500 top trading coins.
 
-## Katest Commit (2023-08-30)
+## Latest Commit (2023-08-30)
 
 Added full CRUD functionality and special URL mapped to view that shows detail for specific coins on specific dates.
 
