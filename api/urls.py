@@ -20,5 +20,6 @@ from api import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('crypto/', views.crypto_list)
+    path('crypto/', views.crypto_list),
+    path('crypto/<int:id>', views.crypto_detail)
 ]
