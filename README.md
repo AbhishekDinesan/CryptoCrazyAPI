@@ -6,10 +6,10 @@ CryptoCrazy API is RESTful API with CRUD functionality that hosts crypto data fr
 Utilizes a webscraper with Python and the BeautifulSoup Library.
 
 ## Technology
-Django - Version 4.2.4
-Django REST Framework - Version 3.14
-Python - Version 3.10.11
-Beautiful Soup - Version 4.12.0
+- Django - Version 4.2.4
+- Django REST Framework - Version 3.14
+- Python - Version 3.10.11
+- Beautiful Soup - Version 4.12.0
 
 ## Data
 - Rank
@@ -21,6 +21,9 @@ Beautiful Soup - Version 4.12.0
 
 for 500 top trading coins.
 
+## Latest Commit (2023-08-30)
+
+Added full CRUD functionality and special URL mapped to view that shows detail for specific coins on specific dates.
 
 ## Features in implementation
 
